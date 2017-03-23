@@ -1,0 +1,7 @@
+{
+  "name": "dk-node-mysql-simple-connector",
+  "main": "lib/pool.js",
+  "dependencies": {
+    "mysql": "2.10.2"
+  }
+}
